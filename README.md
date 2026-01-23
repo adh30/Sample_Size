@@ -19,7 +19,7 @@ Performs Monte Carlo simulation to check sample size performance for ICC. Applic
 ## icc_exact_sim.ado
 Help file for for icc_exact_sim.
 
-**NB: All code in beta state - requires more testing for valid calculations**
+## Comments
+**NB: All code in beta state - requires more testing to check all calculations are valid**
 
-ADH 
-Last updated: 23/01/26
+*Last updated: 23/01/26*
